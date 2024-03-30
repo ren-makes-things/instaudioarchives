@@ -32,3 +32,6 @@ instaud.io decided, it would be REALLY SMART, to use the same ID for multiple di
 
 
 
+# Credits
+[Ren](https://twitter.com/ren_dreemurr) - The guy who programs stuff
+[PixelatedEngie](https://twitter.com/PixelatedEngie) - The dude who came up with the idea
